@@ -41,5 +41,4 @@ indicates new additions
 
   How install QGIS on Windows with OSGeo4W
 
- * [QGIS advanced installation](/Tutorials/Installing_QGIS_with_OSGeo4W) NEW
- * [QGIS advanced uninstall](/Tutorials/Uninstalling_QGIS_with_OSGeo4W) NEW
+ * [QGIS advanced installation and uninstall](/Tutorials/installing_and_uninstall_qgis_with_osgeo4w) NEW
