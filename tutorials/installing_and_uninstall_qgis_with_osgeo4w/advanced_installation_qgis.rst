@@ -1,7 +1,7 @@
 Installing QGIS with OSGeo4W Network Installer
 ==============================================
 
-For a beginner user trying to install QGIS with the the OSGeo4W Network 
+For a beginner user trying to install QGIS with the the OSGeo4W Network
 Installer could be a little overwhelming since it has a lot of packages and
 options.
 
@@ -29,8 +29,8 @@ Difficulty
 Advice
 ------
 
-Read carefully the indications in the OSGeo4W installer, if not, you may end 
-with a disaster of packages  
+Read carefully the indications in the OSGeo4W installer, if not, you may end
+with a disaster of packages
 
 Downloads
 ---------
@@ -64,8 +64,8 @@ This would give us the ability to select the packages ourself
 STEP 2
 ------
 
-Then select "Install form the Internet" this is why you need a internet 
-connection, you can use a directory or download without installing this is 
+Then select "Install form the Internet" this is why you need a internet
+connection, you can use a directory or download without installing this is
 useful if you need to take the packages to another PC.
 
 .. image:: img/162558.png
@@ -77,7 +77,7 @@ useful if you need to take the packages to another PC.
 STEP 3
 ------
 
-We need to select a root directory, another advantage of using the OSGeo4W 
+We need to select a root directory, another advantage of using the OSGeo4W
 Network Installer, is that you may have different versions of QGIS even with
 different libraries
 
@@ -127,7 +127,7 @@ work great.
 STEP 6
 ------
 
-Select a download site, this is very important, my experience its that is 
+Select a download site, this is very important, my experience its that is
 better if you choose a site close to your location!
 
 .. image:: img/162722.png
@@ -162,7 +162,7 @@ package name to see what it is, in this moment we are looking for QGIS LTS so:
 
 is the name we need!
 
-but, how selected for install, just click in the circular arrows, you would 
+but, how selected for install, just click in the circular arrows, you would
 cycle through different options, we you select the las version thats when
 you selected for installation
 
@@ -178,7 +178,7 @@ when I see that number I know that is selected for install.
 STEP 8
 ------
 
-Installing GRASS, with GRASS is the same thing BUT **we need to make sure to 
+Installing GRASS, with GRASS is the same thing BUT **we need to make sure to
 install the plugin** so the integration with QGIS its good!
 
 Search for GRASS in the search box
