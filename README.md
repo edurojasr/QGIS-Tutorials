@@ -20,7 +20,7 @@ Where you can find the documentation:
 
 ## Latest vs Long Term Release QGIS Versions
 
-So the first thing to explain is that QGIS have 2 versions>
+So the first thing to explain is that QGIS have 2 versions:
 
 * Latest Release: is the last release form the community, contains the latest
 tools, this if for users that want the cutting edge of OpenSource technology in
